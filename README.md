@@ -4,7 +4,7 @@
 _There is no English version. If you cannot read Korean, you should go back :) sorry._
 
 ## 소개
-* iPhone용 **[동국대학교 중앙도서관 열람실](https://itunes.apple.com/app/id875569115)** 어플리케이션입니다.
+* iPhone용 **[동국대학교 학생식당 식단 조회](https://itunes.apple.com/app/id875569115)** 어플리케이션입니다.
 * 현재, 전세계 앱스토어에 2.0.1 버전이 release 되어있습니다.
 * 당일의 동국대학교 학식 정보를 제공합니다.
 
